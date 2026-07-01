@@ -1,5 +1,14 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Smriti+Priya+Singh;Cybersecurity+%7C+Python+Developer;Open+Source+Contributor;Always+Learning+Something+New" /> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=170&section=header&text=Welcome!&fontColor=ffffff&fontSize=40"/> </p>
+<p align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Smriti+Priya+Singh;Cybersecurity+Student;SOC+%7C+SIEM+%7C+Wazuh;Python+Developer;Open+Source+Contributor;Always+Learning+Something+New"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Welcome!&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+
+</p>
 <h2> About Me</h2>
 
 
