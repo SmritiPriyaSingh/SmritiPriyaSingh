@@ -14,27 +14,22 @@
 
 
 ```yaml
-Name: Smriti Priya Singh
-Location: Bhopal, India 🇮🇳
-Education: B.Tech in Cyber Security
 
-Specialization:
-  - SOC Operations
-  - Defensive Security
-  - SIEM & Log Analysis
-  - Linux Administration
-  - Computer Networking
+I'm a cybersecurity student focused on **Defensive Security**, with a passion for understanding how
+threats are detected, analyzed, and mitigated in modern environments.
 
-Skills:
-  - Python
-  - Wazuh
-  - Git & GitHub
-  - Linux
-  - Networking
+My current areas of focus include:
 
+- SOC Operations & Security Monitoring
+- SIEM & Log Analysis (Wazuh)
+- Linux Administration
+- Computer Networking
+- Python for Security Automation
+- Cloud Security Fundamentals
 
-Career Goal:
-  Build practical security solutions and grow as a Security Engineer..
+I'm actively building security-focused projects, contributing to open-source initiatives, and
+expanding my knowledge through hands-on labs, continuous learning, and practical experience with
+real-world security workflows.
 ```
 
 <br clear="right"/>
