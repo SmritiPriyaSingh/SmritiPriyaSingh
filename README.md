@@ -74,12 +74,6 @@ real-world security workflows.
 | 📡 **Network Packet Analyzer** | A Python-based network packet analyzer built with Scapy to capture, inspect, and analyze network traffic. |
 
 
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmritiPriyaSingh&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true"/>
-</p>
-
 
 
 ## 2026 Goals
